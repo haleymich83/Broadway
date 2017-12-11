@@ -20,8 +20,20 @@ p{
   font-family: Helvetica, sans-serif;
   font-size: 14px;
 }
+a{
+  color: white;
+}
 .design{
   color: white;
 }
-.picture2 {
+.nav{
+  font-family: Helvetica, sans-serif;
+  font-size: 18px;
+}
+.footer{
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
 }
