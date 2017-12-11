@@ -37,3 +37,11 @@ a{
   background-color: dimgray;
   text-align: left;
 }
+#image1{
+  background-image: url("../images/the-flatiron-building.png");
+  background-size: cover;
+}
+#image2{
+  background-image: url("../images/the-flatiron-building.png");
+  background-size: cover;
+}
